@@ -194,7 +194,6 @@ print(theme_counts)
 # # SQL QUERIES
 
 # %%
-pip install mysql-connector-python
 
 # %%
 import mysql.connector
